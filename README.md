@@ -3,4 +3,5 @@ This is a simple random quote generator web application built using basic HTML, 
 
 WEBSITE OVERVIEW: https://anushka-bhowmick.github.io/QUOTE_GENERATOR/
 
+Here is the screenshot of the website: 
 ![Screenshot (183)](https://github.com/Anushka-Bhowmick/QUOTE_GENERATOR/assets/76967222/29aefcb9-40c6-4c23-bc82-1ca8921780a0)
